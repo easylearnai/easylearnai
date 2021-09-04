@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @easylearnai
+
 
 👀 Learn Artificial Intelligence interactively and graphically!
 www.easylearn.ai
